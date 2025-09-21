@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony Pal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sony_pal.jpg/605px-Sony_pal.jpg" group-title="Hindi",Sony Pal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://hdstreamz.app/
+#EXTVLCOPT:http-header=Host: 23.57.74.112:443
+http://dish.slivcdn.com/live/sonypal/playlist.m3u8
